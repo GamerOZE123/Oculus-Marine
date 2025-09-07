@@ -1,4 +1,4 @@
-# MARINE-AI Embedded Intelligent Microscopy System (Oculus Marina)
+# Embedded Intelligent Microscopy System
 
 
 
