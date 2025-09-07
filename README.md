@@ -192,25 +192,5 @@ class MicroscopeImageProcessor:
 - **Implementation Resources**: Field Validation (89.7% acc), Training (500K images).
 - **Key Optimizations**: INT8 quantization, pruning, distillation, layer fusion.
 
-For full technical details, refer to the [Technical Documentation PDF](./OCULUS%20MARINE%20Embedded%20Intelligent%20Microscopy%20System%20-%20Technical%20Documentation[1].pdf) and [Hackathon Submission PDF](./FINAL%20SIH%20SUB[1].pdf).
-
-## Installation
-1. **Hardware Setup**:
-   - Attach the Jetson module to your microscope via USB/HDMI.
-   - Power on with 12-19V adapter.
-
-2. **Software Setup**:
-   - Install Ubuntu on Jetson.
-   - Clone repo: `git clone https://github.com/oculusmarina/marine-ai.git`
-   - Install dependencies: `pip install opencv-python numpy torch torchvision`
-   - Optimize models with TensorRT.
-
-## Usage
-1. Connect microscope camera.
-2. Run: `python main.py --input image_path`
-3. View real-time dashboard for detections, classifications, and counts.
-
-Example output: CSV with species counts, confidence scores.
-
 ## Contributing
 Contributions welcome! Fork the repo and submit PRs. Focus on model improvements or new dataset integrations.
