@@ -214,8 +214,3 @@ Example output: CSV with species counts, confidence scores.
 
 ## Contributing
 Contributions welcome! Fork the repo and submit PRs. Focus on model improvements or new dataset integrations.
-
-## License
-MIT License. See [LICENSE](./LICENSE) for details.
-
-As of 10:04 AM IST on Sunday, September 07, 2025, the 3.png file is being displayed twice in the document. To resolve this, please ensure that only one instance of the image is referenced. The correct placement should be under the "Solution Architecture" section with the caption "Embedded Intelligent Microscopy System Architecture". The duplicate can be removed to avoid redundancy.
