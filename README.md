@@ -1,5 +1,7 @@
 # OCULUS MARINE Embedded Intelligent Microscopy System (Oculus Marina)
 
+(3.png)
+
 [![Smart India Hackathon 2025](https://img.shields.io/badge/SIH-2025-blue)](https://www.sih.gov.in/)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
