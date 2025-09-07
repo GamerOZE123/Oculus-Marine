@@ -4,7 +4,7 @@
 
 
 Overview
-The MARINE-AI Embedded Intelligent Microscopy System (codenamed Oculus Marina) is a revolutionary AI-powered add-on module designed to automate the identification and counting of marine organisms under standard microscopes. Developed as part of the Smart India Hackathon 2025 (Problem Statement ID: 25043, Theme: Smart Automation, Category: Software/Hardware), this system transforms any existing microscope into an intelligent tool for marine biodiversity assessment.
+The OCULUS MARINE Embedded Intelligent Microscopy System (codenamed Oculus Marina) is a revolutionary AI-powered add-on module designed to automate the identification and counting of marine organisms under standard microscopes. Developed as part of the Smart India Hackathon 2025 (Problem Statement ID: 25043, Theme: Smart Automation, Category: Software/Hardware), this system transforms any existing microscope into an intelligent tool for marine biodiversity assessment.
 Key highlights:
 
 Accuracy: 96.36% species-level accuracy (top-1), 99.2% top-5.
@@ -221,7 +221,7 @@ Power on with 12-19V adapter.
 Software Setup:
 
 Install Ubuntu on Jetson.
-Clone repo: git clone https://github.com/oculusmarina/marine-ai.git
+Clone repo: git clone https://github.com/oculusmarina/OCULUS MARINE.git
 Install dependencies: pip install opencv-python numpy torch torchvision
 Optimize models with TensorRT.
 
